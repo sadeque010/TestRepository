@@ -5,8 +5,8 @@ public class DoWhileLoopDemo {
 	public static void main(String[] args) {
  
 		
-		
-		String place = "Brooklyn";
+		// change the location
+		String place = "Bronx";
 		int start = 1;
 		
 		do

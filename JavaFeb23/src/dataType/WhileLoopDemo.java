@@ -4,8 +4,8 @@ public class WhileLoopDemo {
 
 	public static void main(String[] args) {
  
-		
-			String place = "Brooklyn";
+		// change the location
+			String place = "Staten_Island";
 			int start = 1;
 			
 			while (start <= 3)
